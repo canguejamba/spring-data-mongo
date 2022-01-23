@@ -34,3 +34,9 @@ Preview a spring boot rest api project with mongodb
 
 - Test REST APIs Using Postman Client
 
+## Features
+
+- Post / create new entity
+- Put / update entity
+- Delete / delete entity
+- Get / list of entities
