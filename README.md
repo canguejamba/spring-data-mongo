@@ -14,7 +14,7 @@
 
 <body>
 
-  <h1 id="">Spring Boot MongoDB CRUD REST API</h1>
+  <h1 id="">Spring boot mongodb crud rest api</h1>
 <p>Preview a spring boot rest api project with mongodb</p>
 <ul>
 <li><p><strong>Step 1:</strong> Create a Spring Boot Application </p></li>
