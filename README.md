@@ -15,7 +15,7 @@
 <body>
 
   <h1 id="">Spring Boot MongoDB CRUD REST API</h1>
-<p>Spring Data Mongodb ...</p>
+<p>Preview a spring boot rest api project with mongodb</p>
 <ul>
 <li><p><strong>Step 1:</strong> Create a Spring Boot Application </p></li>
 <li><p><strong>Step 2:</strong> The pom.xml File - Define Maven Dependencies </p></li>
